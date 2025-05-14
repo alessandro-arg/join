@@ -18,6 +18,7 @@ p {
 
 .pp_content {
   max-width: 950px;
+  padding-bottom: 50px;
 }
 
 button {
@@ -41,6 +42,7 @@ h3 {
 .ln_pp_hp_content {
   max-width: 1014px;
   padding: 206px 97px 0 328px;
+  cursor: default;
 }
 
 .ln_pp_hp_h1 {
