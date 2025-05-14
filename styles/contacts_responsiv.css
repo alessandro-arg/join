@@ -281,6 +281,8 @@
 
   .contacts-overview {
     overflow-x: visible;
+    width: 100%;
+    align-items: flex-start;
   }
 
   .contacts-overview-space {
